@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer , Competitive Programmer and Machine Learning Enthusiast</h3>
 <p>
   - 🔭 I’m currently working on a HTML and CSS Project <br>
-- 🌱 I’m currently learning about Git and Github <br>
+- 🌱 I’m currently learning about Backend and API's <br>
 - 👯 I’m looking to collaborate on Open source and Front End Web Devlopment. <br>
 - 🤔 I’m looking for help with Android Development <br>
 - 💬 Ask me about Data structures and Algorithms <br>
