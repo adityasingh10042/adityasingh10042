@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate frontend developer , Competitive Programmer and Machine Learning Enthusiast</h3>
+<h3 align="center">A passionate Frontend Developer , Competitive Programmer and Machine Learning Enthusiast</h3>
 <p>
   - 🔭 I’m currently working on a HTML and CSS Project <br>
 - 🌱 I’m currently learning about Git and Github <br>
