@@ -8,7 +8,7 @@
 - 💬 Ask me about Data structures and Algorithms <br>
 - 📫 How to reach me: adityasingh10042@gmail.com <br>
 - 😄 Pronouns: He/Him <br>
-- ⚡ Fun fact: I Like to Play Cricket and Football :) <br>
+- ⚡ Fun fact: Can You beat me in CS-GO 😁 <br>
 </p><hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasingh10042&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh10042" /> </p>
