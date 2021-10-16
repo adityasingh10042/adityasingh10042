@@ -47,7 +47,7 @@
 <a href="https://discordapp.com/users/AdityaTransformer#3071/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Aditya_Discord"/></a> <a href="https://www.linkedin.com/in/aditya-singh-23378916a/"target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aditya_linkedIn"/></a> <a href="https://www.instagram.com/aditya_ps7/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aditya_instagram" /></a>
 <br>
 <br>
-  <a href="https://steamcommunity.com/profiles/76561199192820075/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-0077B5?style=for-the-badge&logo=steam&logoColor=white" alt="Steam_ID"/>
+  <a href="https://steamcommunity.com/profiles/76561199192820075/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam_ID"/>
 </p>
 
 <hr>
