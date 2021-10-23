@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
+
+![--------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h3 align="center">A passionate Frontend Developer , Competitive Programmer and Machine Learning Enthusiast</h3>
 <p>
   - 🔭 I’m currently working on my Portfolio Website <br>
@@ -9,7 +12,10 @@
 - 📫 How to reach me: adityasingh10042@gmail.com <br>
 - 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: Can You beat me in CS-GO ? 😁 <br>
-</p><hr>
+</p>
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasingh10042&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh10042" /> </p>
 
@@ -38,24 +44,27 @@
 
 [![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityasingh10042&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<hr>
-
 <!-- ----------- GITHUB STATS SECTION END ------------ -->
 
 
-<!-- ----------- CONNECT WITH ME SECTION ------------ -->
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<!-- ----------- CONNECT WITH ME SECTION START ------------ -->
 ![connect-with-me.png](https://raw.githubusercontent.com/Aryamanz29/Aryamanz29/master/images/connect-with-me.png)
 <br>
 
 
 <p align="center">
-<a href="https://discordapp.com/users/AdityaTransformer#3071/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Aditya_Discord"/></a> <a href="https://www.linkedin.com/in/aditya-singh-23378916a/"target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aditya_linkedIn"/></a> <a href="https://www.instagram.com/aditya_ps7/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aditya_instagram" /></a>
+<a href="https://discordapp.com/users/AdityaTransformer#3071/" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Aditya_Discord"/></a> <a href="https://www.linkedin.com/in/aditya-singh-23378916a/"target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aditya_linkedIn"/></a> <a href="https://www.instagram.com/aditya_ps7/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aditya_instagram" /></a>
+   <a href="https://twitter.com/iaditya_singh63" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Aditya_twitter"/>  </a>
+ 
 <br>
 <br>
-  <a href="https://steamcommunity.com/profiles/76561199192820075/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam_ID"/>
+<a href="https://steamcommunity.com/profiles/76561199192820075/" target="_blank"><img align="center" src="https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam_ID"/> </a>
 </p>
 
-<hr>
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ----------- CONNECT WITH ME SECTION END ------------ -->
 
