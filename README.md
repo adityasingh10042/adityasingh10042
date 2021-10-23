@@ -38,9 +38,9 @@
 <!-- ----------- GITHUB STATS SECTION ------------ -->
 
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasingh10042&show_icons=true&count_private=true&theme=react" />
+<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasingh10042&show_icons=true&count_private=true&theme=radical" />
 
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=adityasingh10042&theme=react" />
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=adityasingh10042&theme=radical" />
 
 [![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=adityasingh10042&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
