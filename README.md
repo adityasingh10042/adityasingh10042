@@ -19,7 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityasingh10042&label=Profile%20views&color=0e75b6&style=flat" alt="adityasingh10042" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasingh10042" alt="adityasingh10042" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityasingh10042&theme=darkhub" alt="adityasingh10042" /></a> </p> <br>
 <img src="https://images.unsplash.com/photo-1564865878688-9a244444042a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZWF0JTIwc2xlZXAlMjBjb2RlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="Coding_Wallpaper" align="right" width="400" height="300"></img>
 
 - 📫 How to reach me **adityasingh10042@gmail.com** <hr>
